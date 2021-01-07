@@ -1,0 +1,10 @@
+{
+	"Id": "Solasta_upgrade_merchant",
+	"DisplayName": "Solasta_upgrade_merchant",
+	"Author": "ultrasonic01",
+	"Version": "1.0.0",
+	"ManagerVersion": "0.22.13a",
+	"GameVersion": "0.4.14b",
+	"AssemblyName": "Solasta_upgrade_merchant.dll",
+	"EntryMethod": "Solasta_upgrade_merchant.Main.Load"
+}
